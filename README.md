@@ -1,2 +1,2 @@
 # WeChipAPI
-A API test
+A API test with Swagger
